@@ -1,12 +1,6 @@
 {
   "loopback-component-jsonapi": {
     "exclude": [
-      {
-        "model": "chatter",
-        "methods": [
-          "login"
-        ]
-      }
     ]
   },
   "loopback-component-explorer": {
