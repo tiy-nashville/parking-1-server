@@ -1,5 +1,5 @@
 {
-  "name": "coffee-shop",
+  "name": "parking-api",
   "version": "1.0.0",
   "main": "server/server.js",
   "scripts": {
@@ -29,5 +29,5 @@
     "url": ""
   },
   "license": "UNLICENSED",
-  "description": "coffee-shop"
+  "description": "parking-api"
 }
